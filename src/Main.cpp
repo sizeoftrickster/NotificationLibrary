@@ -1,10 +1,3 @@
-/*
-	This is a NotificationLibrary project file.
-	Developer: s1zeoftr1ckster <sizeoftrickster@gmail.com>
-
-	See more here https://github.com/sizeoftrickster/NotificationLibrary
-*/
-
 #include <sol.hpp>
 #include "GameloopHook.h"
 #include "AsyncRequests.h"
